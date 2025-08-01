@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Adobiz</title>
+        <link>https://Adobiz.github.io/HugoWeb/post/</link>
+        <description>Recent content in Posts on Adobiz</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>EggFireRiceKing</copyright>
+        <lastBuildDate>Fri, 01 Aug 2025 22:16:05 +0800</lastBuildDate><atom:link href="https://Adobiz.github.io/HugoWeb/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>求生手册</title>
+        <link>https://Adobiz.github.io/HugoWeb/p/%E6%B1%82%E7%94%9F%E6%89%8B%E5%86%8C/</link>
+        <pubDate>Fri, 01 Aug 2025 22:16:05 +0800</pubDate>
+        
+        <guid>https://Adobiz.github.io/HugoWeb/p/%E6%B1%82%E7%94%9F%E6%89%8B%E5%86%8C/</guid>
+        <description>&lt;h1 id=&#34;食物&#34;&gt;食物
+&lt;/h1&gt;&lt;h1 id=&#34;补给&#34;&gt;补给
+&lt;/h1&gt;&lt;h1 id=&#34;水源&#34;&gt;水源
+&lt;/h1&gt;&lt;h2 id=&#34;纯净水&#34;&gt;纯净水
+&lt;/h2&gt;&lt;h2 id=&#34;污染水&#34;&gt;污染水
+&lt;/h2&gt;&lt;h1 id=&#34;资金&#34;&gt;资金
+&lt;/h1&gt;&lt;h1 id=&#34;工业&#34;&gt;工业
+&lt;/h1&gt;</description>
+        </item>
+        <item>
+        <title>OnePage</title>
+        <link>https://Adobiz.github.io/HugoWeb/p/onepage/</link>
+        <pubDate>Fri, 01 Aug 2025 17:02:38 +0800</pubDate>
+        
+        <guid>https://Adobiz.github.io/HugoWeb/p/onepage/</guid>
+        <description>&lt;p&gt;ddd测试&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

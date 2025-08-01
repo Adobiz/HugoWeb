@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://Adobiz.github.io/HugoWeb/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2025-08-01T22:16:05+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://Adobiz.github.io/HugoWeb/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://Adobiz.github.io/HugoWeb/ar/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
